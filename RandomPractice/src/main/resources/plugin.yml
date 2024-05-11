@@ -1,0 +1,5 @@
+authors: [Hitblocking and MMC Team]
+depend: [Cobalt]
+main: club.minion.practice.Practice
+name: Practice
+version: 1.5

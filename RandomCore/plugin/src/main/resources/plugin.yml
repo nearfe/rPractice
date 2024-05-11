@@ -1,0 +1,4 @@
+
+name: BloomCore
+main: com.conaxgames.CorePlugin
+version: ${git.commit.id.abbrev}

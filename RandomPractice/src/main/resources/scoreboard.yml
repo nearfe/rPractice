@@ -1,0 +1,51 @@
+SCOREBOARD:
+  TITLE:
+    LINES:
+      - "&6&lPRACTICE"
+    TASK: 0.2
+  LOBBY:
+    DEFAULT:
+      - "&7&m--------------------"
+      - "&fOnline: &6%online%"
+      - "&fFighting: &6%fighting%"
+      - ""
+      - "&6minion.lol"
+      - "&7&m--------------------"
+    QUEUE:
+      - "&7&m--------------------"
+      - "&fOnline: &6%online%"
+      - "&fFighting: &6%fighting%"
+      - "&7&m--------------------"
+      - "&6&lQueue"
+      - "&fKit: &6%kit% (%type%)"
+      - ""
+      - "&6minion.lol"
+      - "&7&m--------------------"
+  FIGHT:
+    DEFAULT:
+      - "&7&m--------------------"
+      - "&aYour Ping: &f%own-ping%"
+      - "&cTheir Ping: &f%opponent-ping%"
+      - ""
+      - "&6minion.lol"
+      - "&7&m--------------------"
+    BOXING:
+      - "&7&m--------------------"
+      - "&fHits: %combo%"
+      - " &fYou: %own-hits%"
+      - " &fThem: %opponent-hits%"
+      - ""
+      - "&aYour Ping: &f%own-ping%"
+      - "&cTheir Ping: &f%opponent-ping%"
+      - ""
+      - "&6minion.lol"
+      - "&7&m--------------------"
+    SPECTATE:
+      - "&7&m--------------------"
+      - "&6&lSpectating Match"
+      - ""
+      - "&fDuration: &6%duration%"
+      - "&6%player1% &fvs. &d%player2%"
+      - ""
+      - "&6minion.lol"
+      - "&7&m--------------------"

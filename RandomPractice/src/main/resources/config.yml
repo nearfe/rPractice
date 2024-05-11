@@ -1,0 +1,13 @@
+DATABASE:
+  MONGO:
+    DATABASE: "Practice"
+    HOST: "127.0.0.1"
+    PORT: 27017
+    AUTHENTICATION:
+      ENABLED: FALSE
+      DATABASE: "admin"
+      USER: "user"
+      PASSWORD: "password"
+
+footer: "sa.minion.club"
+parent: false
